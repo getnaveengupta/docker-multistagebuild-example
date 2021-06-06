@@ -1,2 +1,2 @@
-# docker-multistagebuild-example
-docker multi stage image build example app
+# docker-multibuild-example
+This is an demonstration project for docker multi build concept
